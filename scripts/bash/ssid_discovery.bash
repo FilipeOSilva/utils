@@ -1,3 +1,3 @@
 #!/bin/bash
 
-watch 'nmcli dev wifi list ifname wlp0s20f3 --rescan yes'
+watch 'nmcli dev wifi list ifname wlo1 --rescan yes'
